@@ -1,6 +1,6 @@
 # food-ecommerce
-
-A website to sell food products online
+https://roseecommerce.netlify.app/
+A website to sell products online
 
 * mobile friendly
 
